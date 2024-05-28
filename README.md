@@ -1,4 +1,8 @@
 #Api Usuarios y Pedidos
+
+![Captura de pantalla 2024-05-27 a la(s) 6 29 35 p m](https://github.com/tomas-93/iron-hack-lab-8/assets/12925851/47d30cd9-46d5-4c41-8d21-d4574ade22da)
+
+
 ```yml
 openapi: 3.0.0
 info:
